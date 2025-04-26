@@ -1,3 +1,34 @@
 body{
     background: #BDBDBD;
 }
+.fondo{
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    color:white;
+}
+/* .containerww{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+} */
+ #ww{
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+ }
+.walterwhite{ 
+    max-width: 60%;
+    clip-path: circle(50%);
+}
+#keyboardtypeimg{
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+   }
+.keyboardtyp{ 
+     max-width: 60%;
+clip-path: circle(50%);
+  }
